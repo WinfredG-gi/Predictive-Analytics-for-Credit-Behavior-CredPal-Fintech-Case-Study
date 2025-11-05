@@ -5,7 +5,7 @@ Our objective was to derive actionable insights that could guide **Stripe’s in
 
 ---
 
-## 🏦 Background  
+## Background  
 
 **CredPal** is a Nigerian fintech startup providing point-of-sale credit infrastructure that enables consumers to access on-demand financing while helping merchants boost sales.  
 Despite its success (driving up to **200% sales growth** in small businesses), the question remains — **can CredPal’s credit solution scale further and sustain profitability?**
@@ -19,7 +19,7 @@ Our team of 10 analysts was tasked with deriving intelligence to validate or cha
 
 ---
 
-## 🧩 Problem Statement  
+## Problem Statement  
 
 While Stripe aimed to confirm that spending patterns align with saving capability, our analytical stance was more investigative:  
 > *Does spending behavior alone accurately predict a consumer’s credit reliability and scalability potential?*
